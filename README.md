@@ -5,9 +5,10 @@ File Processing for Yukes Wrestling Games
  
 #### Primary Container Types:
 These are containers that are the base file type for most files
-##### HSPC:
+
+>> HSPC:
 A container primarily used in 2K17 and later.
-##### EPK8:
+>> EPK8:
 A container primarily used in 2K15 and 2K16, used for most mods to get custom slots.
 ##### EPAC:
 A container primarily used in older games, can sometimes appear in certain files.
